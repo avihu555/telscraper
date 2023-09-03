@@ -34,7 +34,7 @@
     CMD: >>> python3 telscraper.py 
     <br>
     <br>
-    2. Enter words on interest
+    2. Enter words of interest
     <br>
     <br>
     3.Wait for the barcode of the telegram web to show and SCAN
